@@ -1,0 +1,9 @@
+<style>
+/***** @media print used to write changes need to done when pdf is generated *****/
+    @media print {
+	.noPrint {
+		display: none;
+        
+	}
+}
+</style>
